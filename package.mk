@@ -1,0 +1,2 @@
+PKG_NAME=pcap2json
+PKG_VERS=1.1.0
